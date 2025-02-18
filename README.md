@@ -16,7 +16,7 @@ apt install python3 python3-pip git -y
 ```bash
 pkg install python python-pip git -y
 ```
-- Download script [Manually](https://github.com/im-hanzou/arenavs-autoref/archive/refs/heads/main.zip) or use git:
+- Download script [Manually](https://github.com/anht3k52/arenavs-autoref/archive/refs/heads/main.zip) or use git:
 ```bash
 git clone https://github.com/im-hanzou/arenavs-autoref
 ```
